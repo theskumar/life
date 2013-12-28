@@ -2,7 +2,7 @@
 ===============
 
 - 05/08/1990 Born
-- 1996-2005 - Primary School - Green Field
+- ~1996-03/2005 - Primary School - Green Field
 - 05/2005-03/2008 - Apeejay School, Saket
 - 06/2008-05/2012 University - Shri Mata Vaishno Devi University
 - 04/06/2012-~ Software Engineer - Ophio
